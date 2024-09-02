@@ -1,0 +1,15 @@
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.exe
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.deps.json
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.runtimeconfig.json
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.sourcelink.json
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\refint\FactoryPatternExercise2.dll
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.genruntimeconfig.cache
+C:\Repos\FactoryPattern2\FactoryPatternExercise2\obj\Debug\net6.0\ref\FactoryPatternExercise2.dll
